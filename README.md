@@ -1,8 +1,8 @@
 # Twitter-Layout
 
-###Hey, I tried replicating the twitter web layout 😎
+### Hey, I tried replicating the twitter web layout 😎
  
-##List of Tools I used :+1:;
+## List of Tools I used :+1:;
 ---
 
 * HTML
